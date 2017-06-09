@@ -1,10 +1,12 @@
 header {
     text-align: center;
-    background: url('http://dash.ga.co/assets/jeff-bg.png');
+    background: url('http://dash.ga.co/assets/jeff-bg.png') center;
     background-size: cover;
     color: white;
+    padding: 5px;
+    border: 50px solid rgba(0, 0, 0, 0.5);
 }
-a {
+.menu a {
     color: white;
 }
 h1 {
@@ -36,3 +38,28 @@ li {
           padding: 5px;
       }
 }
+
+
+.article-actions > * {
+    padding: 0px 10px;
+    color: cornsilk;
+    text-decoration: none;
+    background-color: grey;
+    height: 24px;
+}
+
+article:nth-of-type(2n) {
+    background-color: #ccc;
+}
+
+article:nth-of-type(2n + 1) {
+    background-color: #eee;
+}
+
+/* All elements with an attribute "href", which values
+   start with "http", will be added an arrow after its
+   content (to indicate it's an external link) */
+[href]::after {
+    content: '⤴';
+}
+
