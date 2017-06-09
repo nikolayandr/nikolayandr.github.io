@@ -1,9 +1,9 @@
 
 
 .shape {
-    width: 20px;
-    height: 20px;
+    width: 200px;
+    height: 200px;
     border: 1px solid red;
-    border-radius: 0px 100px 0px 0px;
+    border-radius: 0px 200px 0px 0px;
     background: radial-gradient(circle, white 15%, transparent 40%), #cc5;
 }
