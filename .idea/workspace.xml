@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac6eb45e-c7fa-4bdc-81c9-15dfe30004ae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="ac6eb45e-c7fa-4bdc-81c9-15dfe30004ae" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="182" column="40" lean-forward="false" selection-start-line="182" selection-start-column="40" selection-end-line="182" selection-end-column="40" />
+            <state relative-caret-position="210">
+              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
               <folding>
                 <element signature="n#style#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#article#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -49,11 +46,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="general.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/general.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="normalize.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/normalize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="robot.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mywork/robot.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+              <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -151,7 +168,6 @@
       <list>
         <option value="$PROJECT_DIR$/css/mywork/folder/style.css" />
         <option value="$PROJECT_DIR$/FloatBoth/index.html" />
-        <option value="$PROJECT_DIR$/css/general.css" />
         <option value="$PROJECT_DIR$/mywork/пкшв.html" />
         <option value="$PROJECT_DIR$/mywork/ grid.html" />
         <option value="$PROJECT_DIR$/css/mywork/grid/style.css" />
@@ -191,6 +207,7 @@
         <option value="$PROJECT_DIR$/css/mywork/valeria/main.css" />
         <option value="$PROJECT_DIR$/mywork/robot.html" />
         <option value="$PROJECT_DIR$/css/mywork/robot/main.css" />
+        <option value="$PROJECT_DIR$/css/general.css" />
       </list>
     </option>
   </component>
@@ -457,12 +474,12 @@
       <workItem from="1496767354318" duration="26901000" />
       <workItem from="1497604233635" duration="20815000" />
       <workItem from="1497945943424" duration="812000" />
-      <workItem from="1497948682213" duration="1029000" />
+      <workItem from="1497948682213" duration="1136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49557000" />
+    <option name="totallyTimeSpent" value="49664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
@@ -548,13 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="52" column="16" lean-forward="false" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/general.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-289">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -684,14 +694,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/mywork/flexbox/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -869,7 +871,7 @@
     <entry file="file://$PROJECT_DIR$/mywork/robot.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+          <caret line="9" column="54" lean-forward="false" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
           <folding />
         </state>
       </provider>
@@ -882,10 +884,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="182" column="40" lean-forward="false" selection-start-line="182" selection-start-column="40" selection-end-line="182" selection-end-column="40" />
+        <state relative-caret-position="210">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
           <folding>
             <element signature="n#style#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -904,6 +914,14 @@
             <element signature="n#style#0;n#article#14;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#article#15;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
