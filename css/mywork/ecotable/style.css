@@ -1,0 +1,20 @@
+html {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+    width: 780px;
+    margin: 0 auto;
+    background: url("../../../ukraine.jpg") no-repeat;
+    background-size:contain;
+    border: 1px solid red;
+    padding: 1px;
+}
+
+table {
+    border: 2px solid red;
+}
+
+table {
+    margin: 0 auto;
+}

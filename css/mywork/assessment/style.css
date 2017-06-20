@@ -1,0 +1,165 @@
+@import url('../../fonts.css');
+
+/* General setup */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    min-width: 1000px;
+    max-width: 1400px;
+}
+
+/* Layout */
+
+section {
+    float: left;
+    width: 50%;
+}
+
+aside {
+    float: left;
+    width: 30%;
+}
+
+nav {
+    float: left;
+    width: 20%;
+}
+
+footer {
+    clear: both;
+}
+
+header, section, aside, nav, footer {
+    padding: 20px;
+}
+
+/* header and footer */
+
+header, footer {
+    border-top: 5px solid #a66;
+    border-bottom: 5px solid #a66;
+}
+
+/* WRITE YOUR CODE BELOW HERE */
+
+/*** FONTS ***/
+html {
+    font-size: 10px;
+    font-family: fantasy;
+
+}
+
+h1, h2 {
+    font-family: paprikaregular;
+    letter-spacing: 0.1rem;
+
+}
+
+
+header > h1 {
+    font-size: 3.6rem;
+    text-align: center;
+
+}
+
+section > h2 {
+    font-size: 2.6rem;
+}
+
+section, aside, nav {
+    font-size: 2.0rem;
+}
+
+section p, li {
+    line-height: 1.4;
+    letter-spacing: 0.05rem;
+    word-spacing: 0.05rem;
+}
+
+h2 + p {
+    text-indent: 2rem;
+}
+
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+a[href*='http'] {
+    padding-right: 1.5rem;
+    background: url('../../../external-link-52.png') no-repeat right center;
+    background-size: 1.2rem 1.2rem;
+}
+
+li > a:link {
+    border-bottom: none;
+}
+
+
+a:link {
+    color: #a66;
+    border-bottom: 1px solid #a66;
+
+}
+
+a:visited {
+    color: #857b17;
+    border-bottom: 1px solid #857b17;
+
+}
+
+a:focus {
+    background: #BAE498;
+    border-bottom: none;
+
+}
+
+a:hover {
+    background: #CDFEAA;
+    border-bottom: none;
+
+}
+
+a:active {
+    background: #265301;
+    color: #CDFEAA;
+}
+
+ol, ul, p {
+    margin: 1.6rem 0;
+}
+
+section li {
+    padding-left: 2rem;
+    list-style-type: none;
+    background: url("../../../apple-touch-icon.png") no-repeat 0% 0%;
+    background-size: 1.6rem 1.6rem;
+}
+
+nav li a {
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 2rem 0;
+}
+nav li {
+    list-style-type: none;
+    line-height: 2.4;
+    border: 1px solid brown;
+    margin-bottom: 2rem;
+
+}
+
+nav ul {
+    padding-left: 0;
+    margin-top: 0.8rem;
+}
+
+
+

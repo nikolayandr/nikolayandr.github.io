@@ -1,0 +1,75 @@
+div {
+    margin: 0 auto;
+}
+
+.eye {
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+}
+
+.eye-left {
+    position: absolute;
+    left:30px;
+    top:65px;
+}
+
+.eye-right {
+    position: absolute;
+    right:30px;
+    top:59px;
+}
+
+.foot {
+    height:40px;
+    width: 40px;
+    background: #ccc;
+    border-radius: 40px;
+    border: 15px solid #999;
+}
+
+.torso {
+    height: 0;
+    width: 140px;
+    border-top: 300px solid #bc6;
+    border-left: 75px solid transparent;
+    border-right: 75px solid transparent;
+    border-radius: 20px 20px 100px 100px;
+}
+
+.brain {
+    background: radial-gradient(circle, white 15%, transparent 40%), #cc5;
+    background-size: 50% 100%;
+    width: 150px;
+    height: 150px;
+    border-radius: 60px 60px 10px 10px;
+    border-bottom: 40px double #666;
+    position: relative;
+}
+.beep {
+    width: 5px;
+    height: 0px;
+    border: 5px solid transparent;
+    border-top: 10px solid #777;
+    border-bottom: 80px solid #888;
+}
+
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+
+div:hover {
+    animation-name: rotate;
+    animation-duration: 0.6s;
+    animation-timing-function: linear;
+    animation-iteration-count: 5;
+}

@@ -1,0 +1,23 @@
+html {
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+
+p {
+    width: 200px;
+    line-height: 4rem;
+    font-size: 1.8rem;
+    text-align: center;
+    margin: 25% auto;
+    color: red;
+    text-shadow: 1px 1px 1px #222222;
+    border: 1px solid black;
+    background: linear-gradient(to bottom right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0.2) 100%) red;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px 0px black, inset 3px 3px 7px 0px rgba(255,255,255, 0.4), inset -2px 1px 7px 0px rgba(0,0,0, 0.4);
+}
+
+p:hover {
+    box-shadow: 3px 3px 7px 0px black, inset 3px 3px 7px 0px rgba(0,0,0, 0.4);
+}

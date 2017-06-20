@@ -1,0 +1,29 @@
+@import url("../../fonts.css");
+
+html {
+    font-size: 10px;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+body {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Typography */
+
+h1 {
+    font: 3.2rem cooper_hewittbold_italic;
+}
+
+h2 {
+    font: 2.4rem alfa_slab_oneregular;
+}
+
+p {
+    font: italic 1.4rem cooper_hewittheavy;
+    line-height: 1.6;
+    word-spacing: 0.6rem;
+}
